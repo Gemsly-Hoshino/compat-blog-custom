@@ -1,0 +1,4 @@
+name = "my-hugo-blog"
+compatibility_date = "2025-11-20" 
+assets = { directory = "./public" } 
+workers_dev = true
