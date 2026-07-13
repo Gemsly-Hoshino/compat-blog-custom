@@ -12,16 +12,18 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
     sitename = "Gemsly Hoshino"
-    description = "一个纯净、无广告、零追踪的独立技术博客。"
+    description = "一个纯净、无广告、向下兼容的独立技术博客。"
     disableWebFonts = true
 
 [[menu.main]]
     name = "About"
     url  = "/about"
 [[menu.main]]
-    name = "Friends"
-    url  = "https://blog.gemslyho.org/friends/"
+    name = "Privacy Policy"
+    url  = "/privacy"
 [[menu.main]]
-    name = "Home"
-    url  = "https://www.gemslyho.org"
-
+    name = "RSS"
+    url  = "/index.xml"
+[[menu.main]]
+    name = "Sitemap"
+    url  = "/sitemap.xml"
