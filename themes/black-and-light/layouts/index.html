@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-<main id="content">
+<div id="content">
   <ul class="posts_listing">
     {{ range .Site.RegularPages }}
       <li>
@@ -13,6 +13,6 @@
       </li>
     {{ end }}
   </ul>
-</main>
+</div>
 
 {{ partial "footer.html" . }}
