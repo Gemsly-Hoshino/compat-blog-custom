@@ -1,15 +1,19 @@
-baseurl = "https://www.example.com/"
-title = "Black & Light"
-author = "David Hamp-Gonsalves"
+baseurl = "https://blog-compat.gemslyho.org/"
+title = "Gemsly Hoshino"
+author = "Gemsly Hoshino"
 canonifyurls = true
-languagecode = "ch"
+languagecode = "zh-cn"
 theme = "black-and-light"
 
 pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
+disableKinds = ["taxonomy", "term"]
+
 [params]
-  sitename = "Black & Light"
+    sitename = "Gemsly Hoshino"
+    description = "一个纯净、无广告、零追踪的独立技术博客。"
+    disableWebFonts = true
 
 [[menu.main]]
     name = "About"
