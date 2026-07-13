@@ -1,29 +1,22 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "关于我"
+date = "2026-04-10"
 +++
 
-Hugo is a static site engine written in Go.
+# 关于我 / About Me
 
+最开始只是想找个地方，把自己折腾技术的零散笔记、偶尔冒出来的想法好好存着 —— 怕时间长了，那些踩过的坑、灵光一闪的思路就忘了。
 
-It makes use of a variety of open source projects including:
+最开始是在本地写 HTML 文件，像记手写笔记似的，能在浏览器里打开看排版就很满足。后来笔记越积越多，翻找起来麻烦，才想着 “不如搭个正经网站吧”。
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+最初选了 Hugo 做静态站，后来转移 Astro ，换主题时踩过配置的坑，部署到 Cloudflare 时等过加载转圈的页面。
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+现在看着它能稳定跑起来，突然觉得：原来把 “自己的小世界” 整理好、分享出去，是这么踏实的事。
 
-## Setup
+***\*回头看看，这一切都源于那个“拥有一片数字领土”的简单念头。\**** 如今，这个小世界不仅安放了我的笔记与思考，更成了我数字身份的一部分。它不完美，但足够真实；不庞大，但属于我。这就够了。
 
-Some fun facts about [Hugo](http://gohugo.io/):
+## 隐私政策
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+我们十分重视你的隐私与数据安全，访问本网站时，我们仅收集必要的使用相关信息（如访问记录、设备基础信息等），且会严格遵循隐私保护相关规则妥善保管。
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+关于信息收集范围、使用方式、存储期限及你的权利等详细说明，请转到我们的[隐私政策](https://docs.gemslyho.org/support/privacy)和[开放源代码许可](https://docs.gemslyho.org/support/open-source)。感谢你的理解与信任！
