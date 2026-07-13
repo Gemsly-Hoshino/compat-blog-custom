@@ -2,7 +2,7 @@ baseurl = "https://www.example.com/"
 title = "Black & Light"
 author = "David Hamp-Gonsalves"
 canonifyurls = true
-languagecode = "en"
+languagecode = "cn"
 theme = "black-and-light"
 
 pygmentsstyle       = "bw"
@@ -10,7 +10,6 @@ pygmentscodefences  = true
 
 [params]
   sitename = "Black & Light"
-  disableWebFonts = false
 
 [[menu.main]]
     name = "About"
