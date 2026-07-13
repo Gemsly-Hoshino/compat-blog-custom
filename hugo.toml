@@ -1,6 +1,6 @@
-baseURL = 'https://gemsly.top/'
+baseURL = 'https://blog.gemslyho.org'
 title = 'Gemsly Hoshino'
-theme = 'hugo-theme-reimu'
+theme = 'hugo-black-and-light-theme'
 
 languageCode = 'zh-CN'
 defaultContentLanguage = 'zh-CN'

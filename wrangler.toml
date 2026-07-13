@@ -1,4 +1,4 @@
-name = "my-hugo-blog"
+name = "compat-blog-custom"
 compatibility_date = "2025-11-20" 
 assets = { directory = "./public" } 
 workers_dev = true
